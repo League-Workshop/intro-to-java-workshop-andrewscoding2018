@@ -18,12 +18,13 @@ public class FlamingNinjaStar {
 		Moby.penDown();
 		// *14. Use the methods setX and setY to move the ninja star into the center of
 		// the screen
-setX();
+Moby.setX();
+Moby.setY(y);
 
 		// *15. Make some adjustments to see what other kinds of shapes you can make.
 
 		// 12. Set the robot speed to 10
-
+//i did
 		// 13. Use a for loop to repeat all of the code below 25 times
 		for (int loop = 0; loop < 25; loop++) {
 			// 2. Turn the robot 1/8 of a circle
